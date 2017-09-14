@@ -1,0 +1,116 @@
+{
+  "travelLists": [{
+            "travelPic":"../assets/images/1.jpg",
+            "joinNum":"4",
+            "title":"周末去lamb花舞森林展会",
+            "releaseUsername":"CoCo",
+            "date":"9月5日 周六 ",
+            "time": "10:00-15:00",
+            "place":"798艺术中心",
+            "objectId":"1"
+        },{
+            "travelPic":"../assets/images/1.jpg",
+            "joinNum":"15",
+            "title":"贴近户外神堂峪 漫步山水占道畅游篱苑书屋",
+            "releaseUsername":"会飞的鱼",
+            "date":"8月26日 周六 ",
+            "time": "10:00-17:00",
+            "place":"惠新西街南口",
+            "objectId":"2"
+        },{
+            "travelPic":"../assets/images/1.jpg",
+            "joinNum":"12",
+            "title":"铭栩瑜伽体验课",
+            "releaseUsername":"噜噜啦",
+            "date":"9月5日 周六 ",
+            "time": "10:00-15:00",
+            "place":"铭栩瑜伽",
+            "objectId":"3"
+        },{
+            "travelPic":"../assets/images/1.jpg",
+            "joinNum":"5",
+            "title":"乐卓爱乐园|儿童潜力探索",
+            "releaseUsername":"湛蓝",
+            "date":"9月5日 周六 ",
+            "time": "10:00-15:00",
+            "place":"乐卓爱乐园",
+            "objectId":"4"
+        }],
+   "login": {
+    "username": "Crystal",
+    "userId": "123123"
+  },
+  "sportsLists":[
+    {
+        "joinNum":"6",
+        "title":"自由搏击超酷运动体验",
+        "releaseUsername":"嘉丽",
+        "date":"8月27日 周日 ",
+        "time": "10:00-12:00",
+        "place":"北京外国语大学",
+        "objectId":"1"
+        },
+        {
+        "joinNum":"5",
+        "title":"羽毛球比赛",
+        "releaseUsername":"衣楠",
+        "date":"月27日 周日  ",
+        "time": "10:00-15:00",
+        "place":"奥森",
+        "objectId":"1"
+        }],
+  "tripLists":[ {
+        "joinNum":"6",
+        "title":"人生最好的旅行,青海甘肃西北七日游",
+        "releaseUsername":"CoCo",
+        "date":"9月5日 周六 ",
+        "time": "10:00-15:00",
+        "place":"西宁站",
+        "objectId":"1"
+        },
+        {
+        "joinNum":"7",
+        "title":"人生最好的旅行,青海甘肃西北七日游",
+        "releaseUsername":"CoCo",
+        "date":"9月5日 周六 ",
+        "time": "10:00-15:00",
+        "place":"西宁站",
+        "objectId":"2"
+        }],
+   "gameLists":[ {
+        "joinNum":"7",
+        "title":"狼人杀一起玩耍",
+        "releaseUsername":"CoCo",
+        "date":"9月5日 周六 ",
+        "time": "10:00-15:00",
+        "place":"798艺术中心",
+        "objectId":"1"
+        },
+        {
+        "joinNum":"7",
+        "title":"狼人杀一起玩耍",
+        "releaseUsername":"CoCo",
+        "date":"9月5日 周六 ",
+        "time": "10:00-15:00",
+        "place":"仙女万事屋",
+        "objectId":"1"
+        }],
+    "mealLists":[ {
+        "joinNum":"7",
+        "title":"聚餐自助餐厅水果沙拉烧烤",
+        "releaseUsername":"CoCo",
+        "date":"7月28日 周六 ",
+        "time": "10:00-15:00",
+        "place":"无二餐厅",
+        "objectId":"1"
+        },
+        {
+        "joinNum":"5",
+        "title":"聚餐自助餐厅水果沙拉烧烤",
+        "releaseUsername":"CoCo",
+        "date":"7月28日 周六 ",
+        "time": "10:00-15:00",
+        "place":"无二餐厅",
+        "objectId":"1"
+        }]
+  }
