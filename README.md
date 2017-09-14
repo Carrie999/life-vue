@@ -10,6 +10,7 @@
 > * vuex
 > * vue-resource
 > * es6
+> * sass
 > * localStorage
 > * webpack
 
