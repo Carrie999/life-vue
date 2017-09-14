@@ -8,7 +8,7 @@
 > * vue
 > * vue-router
 > * vuex
-> * axios
+> * vue-resource
 > * es6
 > * localStorage
 > * webpack
