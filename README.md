@@ -22,7 +22,7 @@
 
 #### 问题和bug坑
 > * webpack 无法打包json-server，所以打包后预览的数据都是静态的
-> * 因为json-server的限制没办法使用post请求，json-server对图片的加载也不支持
+> * 因为json-server的限制没办法使用post请求
 > * github-pages 对http的引用无法加载，故需要把文件下载下来，本地引用加载
 > * 关于城市插件，用webpack无法打包 pinyin 插件，网上说使用include加载插件，目前打包时把城市选择去掉了，项目文件依然有
 
